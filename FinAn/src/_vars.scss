@@ -1,0 +1,28 @@
+
+// $textLight: #fed7f7;
+
+// $bgColor: #e0daf8;
+// $elements: #44318d;
+// $middle: #a4b3b6;
+// $darkEls: #44318d;
+
+// $textDark: #2a1b3d;
+
+// $blue: #d83f87;
+
+$textDark: #000000;
+$bgColor: #FFFFFF;
+
+$darkEls: #36494e;
+$textLight: #a9cef4;
+$middle: #597081;
+$elements: #7ea0b7;
+$blue: #000000;
+
+%title-font {
+    font-family: OpenSans, Arial, sans-serif;
+    font-size: clamp(1rem, 3vw, 1.2rem);
+    line-height: 1.55;
+}
+
+
