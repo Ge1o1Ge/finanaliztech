@@ -1,4 +1,4 @@
-# Face Harmony
+# FinAnaliz
 
 source files: https://github.com/Ge1o1Ge/finanaliztech
 
